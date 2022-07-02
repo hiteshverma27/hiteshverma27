@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hitesh27v" target="blank"><img src="https://img.shields.io/twitter/follow/hitesh27v?logo=twitter&style=for-the-badge" alt="hitesh27v" /></a> </p>
 
-- 🔭 I’m currently working on [LightsOut Store](https://lightsout-store.netlify.app/)
+- 🔭 I’m currently working on [LightsOut Store v2](https://lightsout-video-v2.vercel.app/)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
